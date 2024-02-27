@@ -35,3 +35,23 @@ HTML
 </body>
 
 </html>
+
+CSS
+header {
+    background-color: rgba(54, 54, 116, 0.267);
+font-family: Arial, Helvetica, sans-serif;
+margin: 40px;
+padding: 15px;
+font-size: 50px;
+font-weight: 600;
+}
+body {
+    text-align: center;
+}
+footer {
+    background-color: rgba(54, 54, 116, 0.267);
+    padding: 15px;
+}
+nav {
+    text-align: left;
+}
